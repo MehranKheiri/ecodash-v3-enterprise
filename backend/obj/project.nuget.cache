@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1V2bXvtvJSg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mehran\\.gemini\\antigravity\\scratch\\ecodash-v3-enterprise\\backend\\EcoDashBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mehran\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\Mehran\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

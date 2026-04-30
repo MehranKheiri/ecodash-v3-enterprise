@@ -1,0 +1,6 @@
+@EcoDashBackend_HostAddress = http://localhost:5058
+
+GET {{EcoDashBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
